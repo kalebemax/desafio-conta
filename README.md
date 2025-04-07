@@ -2,7 +2,7 @@
 
 Projeto desenvolvido como parte de um desafio de lógica de programação, utilizando a linguagem **Java**.
 
-## 📷 Imagem do Projeto
+## 📷 Imagem do Código
 
 <img src="code.png" alt="foto do código">
 
