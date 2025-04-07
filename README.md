@@ -9,10 +9,14 @@ Projeto desenvolvido como parte de um desafio de lógica de programação, utili
 ## 🔍 Funcionamento
 
 O projeto simula uma conta bancária básica com operações como:
+
 - Consulta de saldo
 - Realização de depósitos
 - Realização de saques
 
 ## 🛠 Tecnologias Utilizadas
-- ☕ Java
 
+- ☕ Java
+- 🖥️ Visual Studio Code (VS Code)
+- 🗃️ Git
+- 🐙 GitHub
