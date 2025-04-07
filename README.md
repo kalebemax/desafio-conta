@@ -2,6 +2,10 @@
 
 Projeto desenvolvido como parte de um desafio de lógica de programação, utilizando a linguagem **Java**.
 
+## 📷 Imagem do Projeto
+
+<img src="code.png" alt="foto do código">
+
 ## 🔍 Funcionamento
 
 O projeto simula uma conta bancária básica com operações como:
